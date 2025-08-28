@@ -14,7 +14,7 @@ The tasks include:
 
 ## 🌐 S3 Website URLs
 - **Static Site Bucket URL:**  
-  http://cloudlaunch-site-bucket347.s3-website-us-east-1.amazonaws.com  
+(https://cloudlaunch-site-bucket347.s3.eu-west-1.amazonaws.com/index.html)  
 
 - **CloudFront URL (optional, if created):**  
   https://xxxxxxxxxxxxx.cloudfront.net  
